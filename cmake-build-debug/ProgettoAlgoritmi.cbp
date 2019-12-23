@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/DoubleHeap.h">
+			<Option target="ProgettoAlgoritmi"/>
+		</Unit>
+		<Unit filename="C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/algoritmiSelezione.h">
+			<Option target="ProgettoAlgoritmi"/>
+		</Unit>
+		<Unit filename="C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/funzioni.h">
+			<Option target="ProgettoAlgoritmi"/>
+		</Unit>
 		<Unit filename="C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/main.cpp">
 			<Option target="ProgettoAlgoritmi"/>
 		</Unit>

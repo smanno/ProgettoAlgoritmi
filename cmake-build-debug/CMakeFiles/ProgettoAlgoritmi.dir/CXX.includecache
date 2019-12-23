@@ -6,7 +6,31 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/DoubleHeap.h
+
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/algoritmiSelezione.h
+
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/funzioni.h
+iostream
+-
+sstream
+-
+vector
+-
+
 C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/main.cpp
 iostream
 -
+vector
+-
+algorithm
+-
+chrono
+-
+funzioni.h
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/funzioni.h
+DoubleHeap.h
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/DoubleHeap.h
+algoritmiSelezione.h
+C:/Users/stefano/CLionProjects/ProgettoAlgoritmi/algoritmiSelezione.h
 

@@ -3,4 +3,4 @@ project(ProgettoAlgoritmi)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ProgettoAlgoritmi main.cpp)
+add_executable(ProgettoAlgoritmi main.cpp funzioni.h algoritmiSelezione.h DoubleHeap.h)
